@@ -1,0 +1,21 @@
+[
+    {
+        "tipos": "Analisis de datos",
+        "estado": "terminada"
+    },
+
+    {
+        "tipos": "Creación de base de datos",  
+        "estado": "terminada"
+    },
+  
+    {
+        "tipos": "Desarrollo de backend",      
+        "estado": "progreso"
+    },
+  
+    {
+        "tipos": "Desarrollo de frontend",     
+        "estado": "pendiente"
+    }
+]
